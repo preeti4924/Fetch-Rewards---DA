@@ -1,6 +1,5 @@
-# Fetch-Rewards---DA
+<h2> Fetch-Rewards---DA </h2>
 
-# First - Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
+<h2> First - Review Existing Unstructured Data and Diagram a New Structured Relational Data Model </h2>
 
-![ERModel]('ERModel.png?raw=True')
-
+<img class="fit-picture" src="ERModel.png?raw=True" alt="ER Model">
